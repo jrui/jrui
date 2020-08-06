@@ -23,6 +23,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Happy coronavirus Easter](https://jrsmiguel.postach.io/post/happy-coronavirus-easter)
+- [Joyfull twist](https://jrsmiguel.postach.io/post/joyfull-twist)
+- [Sunday night](https://jrsmiguel.postach.io/post/sunday-night)
+- [Deep cleanse](https://jrsmiguel.postach.io/post/deep-cleanse)
+- [Resolutions and year so far...](https://jrsmiguel.postach.io/post/resolutions-and-year-so-far)
 <!-- BLOG-POST-LIST:END -->
 
 ---
