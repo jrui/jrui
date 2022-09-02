@@ -1,6 +1,6 @@
 ### Oh hi there! I'm [João][website], a hopefully friendly software Developer 👋
 
-- 🔭 Producing code for @Flutter-Global!
+- 🔭 Producing code for @landtechnologies!
 - 🌱 Currently learning AWS and Kafka.
 - ⚡ Fun fact: I love for any kind of movies and series! 🤣
 
