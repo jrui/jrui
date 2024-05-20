@@ -1,4 +1,4 @@
-### Oh hi there! I'm [João][website], a hopefully friendly software engineer 👋
+### Hello World! Meet João, hopefully a friendly software engineer 👋
 
 - 🔭 Producing code from coffee!
 - 🌱 Currently learning BlockChain / Web3.
